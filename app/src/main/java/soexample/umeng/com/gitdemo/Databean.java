@@ -5,5 +5,5 @@ package soexample.umeng.com.gitdemo;
  */
 
 public class Databean {
-    //pfy的bean
+    //美不美看裤衩
 }
