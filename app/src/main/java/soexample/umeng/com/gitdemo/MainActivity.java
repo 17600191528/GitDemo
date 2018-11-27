@@ -8,11 +8,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //这是wyj第一次提交
-        //这是第二次
-        //这是老师的提交
-        //这是晚上的提交
-        //平丰源
-        //美不美看裤衩12313
+       //这是wyj的login
     }
 }
